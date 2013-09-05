@@ -1,0 +1,35 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  town: MyString
+  total_pop: 1
+  age_19: 1
+  age_65_plus: 1
+  per_capita_income_year: 1
+  living_below_poverty: 1
+  pct_persons_below: 9.99
+  pct_prenatal_care_kc: 9.99
+  percent_csection: 9.99
+  infant_deaths: 1
+  infant_mortality_rate_live_births: 9.99
+  pct_low_birthweight: 9.99
+  pct_multiple_births: 9.99
+  pct_financed_prenatal_care: 9.99
+  pct_teen_births: 9.99
+
+two:
+  town: MyString
+  total_pop: 1
+  age_19: 1
+  age_65_plus: 1
+  per_capita_income_year: 1
+  living_below_poverty: 1
+  pct_persons_below: 9.99
+  pct_prenatal_care_kc: 9.99
+  percent_csection: 9.99
+  infant_deaths: 1
+  infant_mortality_rate_live_births: 9.99
+  pct_low_birthweight: 9.99
+  pct_multiple_births: 9.99
+  pct_financed_prenatal_care: 9.99
+  pct_teen_births: 9.99
